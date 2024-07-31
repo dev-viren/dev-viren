@@ -10,9 +10,9 @@
 
 ## My Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React Js, Redux, Vite Js
+- **Frontend:** HTML, CSS, JavaScript, React Js, Redux Js, Vite Js
 - **Backend:** Node Js, Express Js, MongoDB, MySQL
-- **DEVOPS:** GitHub Actions, Gitlab CI, Netlify, Heroku
+- **Devops:** GitHub Actions, Gitlab CI, Netlify, Heroku
 - **Tools & Technologies:** npm, REST APIs, Github, Firebase, Cloudflare
 - **Other Skills:** Microservices, Serverless, Micro-frontends, CI/CD, Monitoring, Web Performance, Security, Accessibility, User Experience, SEO, TDD, Agile Methodologies
 - **Soft Skills:** Leadership, Team Management, Reliable, Growth Mindset
