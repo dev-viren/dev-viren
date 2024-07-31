@@ -10,16 +10,23 @@
 
 ## My Skills
 
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB
-- **Tools & Technologies:** npm, REST APIs, Vite.js,  Github, Firebase, Cloudflare, CI/CD (Continuous Integration/Continuous Deployment)
+- **Frontend:** HTML, CSS, JavaScript, React Js, Redux, Vite Js
+- **Backend:** Node Js, Express Js, MongoDB, MySQL
+- **DEVOPS:** GitHub Actions, Gitlab CI, Netlify, Heroku
+- **Tools & Technologies:** npm, REST APIs, Github, Firebase, Cloudflare
+- **Other Skills:** Microservices, Serverless, Micro-frontends, CI/CD, Monitoring, Web Performance, Security, Accessibility, User Experience, SEO, TDD, Agile Methodologies
+- **Soft Skills:** Leadership, Team Management, Reliable, Growth Mindset
 
 ## Learning Journey
 
-I'm currently exploring:
-
+Completed courses:
+- **HTML5 - From Basic to Advanced level** on Udemy
+- **CSS3 - Basic To Advanced for front end development** on Udemy
+- **React Js - Complete Guide** on Udemy
 - **Legacy JavaScript Algorithms and Data Structures** on freeCodeCamp
 - **Back End Development and APIs** on freeCodeCamp
+
+I'm currently exploring:
 - **Full Stack** in web development
 
 ## Fun Facts
