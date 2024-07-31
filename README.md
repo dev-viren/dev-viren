@@ -4,8 +4,8 @@
 
 - 🌐 I’m @dev-viren
 - 👀 I’m passionate about building dynamic and responsive websites.
-- 🌱 Currently, I’m learning **Back End Development and APIs** through the freeCodeCamp curriculum.
-- 💻 I specialize in Full Stack Development, particularly using **React** for the frontend and **Node.js** for the backend.
+- 🌱 Currently, I’m learning **Full Stack** in web development
+- 💻 I specialize in Full Stack Development, particularly using **React Js** for the frontend and **Node Js** for the backend.
 - 💞️ I’m looking to collaborate on web development projects, open source contributions, and innovative applications.
 
 ## My Skills
@@ -25,9 +25,6 @@ Completed courses:
 - **React Js - Complete Guide** on Udemy
 - **Legacy JavaScript Algorithms and Data Structures** on freeCodeCamp
 - **Back End Development and APIs** on freeCodeCamp
-
-I'm currently exploring:
-- **Full Stack** in web development
 
 ## Fun Facts
 
