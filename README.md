@@ -1,4 +1,4 @@
-                                                                                                  # Hi there, I'm Viren! 👋 ,  Welcome to my Github page!
+                               ## Hi there, I'm Viren! 👋 ,  Welcome to my Github page!
 
 ## About Me
 
